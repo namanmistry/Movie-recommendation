@@ -24,7 +24,7 @@ The movie recommendation system is based on a content-based recommendation algor
 1. Exploratory Data Analysis (EDA): The movie dataset is analyzed to get insights into the data and identify any potential issues.
 2. Data preprocessing: The movie dataset is cleaned and preprocessed to remove missing values and outliers.
 3. Feature engineering: The movie features are engineered to create a set of movie attributes that can be used for recommendation. The features include genre, director, actor, and release year.
-4. Machine Learning: The system trains a machine learning algorithm to predict the movies that the user might like based on their past preferences.
+4. Machine Learning: The system trains a machine learning algorithm to predict the movies that is similar to movies a user likes.
 5. Recommendation generation: The system recommends movies based on the predictions of the machine learning algorithm.
 
 ## Conclusion
